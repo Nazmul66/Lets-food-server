@@ -1,23 +1,20 @@
-
 [
-
   {
     "id" : "nffj6551",
-    "img" : "../src/order 1.png",
-    "title-name" : "Easy To Order",
+    "img" : "https://i.ibb.co/ZhxWtyy/order-1.png",
+    "title_name" : "Easy To Order",
     "desc" : "You only order through the app"
   },
   {
     "id" : "i65r51fb",
-    "img" : "../src/delivery 1.png",
-    "title-name" : "Fastest Delivery",
+    "img" : "https://i.ibb.co/ZBgbqWd/delivery-1.png",
+    "title_name" : "Fastest Delivery",
     "desc" : "Delivery will be on time"
   },
   {
     "id" : "jkfu415t",
-    "img" : "../src/courier 1.png",
-    "title-name" : "Best Quality",
+    "img" : "https://i.ibb.co/GxF81WQ/courier-1.png",
+    "title_name" : "Best Quality",
     "desc" : "The best quality of food for you"
   }
-
 ]

@@ -1,0 +1,332 @@
+[
+
+  { 
+    "id": "ht55hd42",
+    "chefName": "Gino D'Acampo",
+    "chefPictureUrl": "https://i.ibb.co/jvptqV1/cheff1.jpg",
+    "Years of experience": "10 years",
+    "Numbers of recipes": 3,
+    "likes": 17059,
+    "Ratings": 5,
+    "recipes": [
+      {
+        "name": "Spaghetti Carbonara",
+        "ingredients": [
+          "400g spaghetti",
+          "150g pancetta, diced",
+          "3 large eggs",
+          "50g Pecorino Romano cheese, grated",
+          "50g Parmesan cheese, grated",
+          "1 garlic clove, finely chopped",
+          "Salt and freshly ground black pepper"
+        ],
+        "cooking method":
+            "Bring a large pot of salted water to a boil. Add the spaghetti and cook until al dente, according to package instructions. While the spaghetti is cooking, heat a large frying pan over medium heat. Add the diced pancetta and cook until crispy and golden brown, stirring occasionally, for about 5-7 minutes.Add the finely chopped garlic to the frying pan with the pancetta and cook for an additional 1-2 minutes until fragrant. Remove the pan from the heat.In a bowl, lightly beat the eggs and add the grated Pecorino Romano cheese and Parmesan cheese. Season with salt and freshly ground black pepper.Drain the spaghetti and reserve 1/2 cup of the pasta cooking water.Add the drained spaghetti to the frying pan with the pancetta and garlic. Toss well to combine. Pour the egg and cheese mixture over the spaghetti and toss well until the spaghetti is coated evenly.If the sauce is too thick, gradually add some of the reserved pasta cooking water until the desired consistency is achieved."
+      },
+      {
+        "name": "Pizza Margherita",
+        "ingredients": [
+          "500g strong bread flour",
+          "1 tsp instant yeast",
+          "1 tsp salt",
+          "1 tbsp olive oil",
+          "300ml warm water",
+          "1 x 400g can chopped tomatoes",
+          "1 garlic clove, crushed",
+          "1 tbsp tomato puree",
+          "1 tsp dried oregano",
+          "125g mozzarella cheese, sliced",
+          "A handful of fresh basil leaves"
+        ],
+        "cooking method": "Preheat your oven to 450°F (230°C). If you have a pizza stone, place it in the oven to heat up.Dust a clean work surface with flour and roll out the pizza dough to a thickness of about 1/4 inch (0.6 cm).Transfer the pizza dough to a piece of parchment paper.Spread the tomato sauce over the pizza dough, leaving a small border around the edges.Arrange the mozzarella cheese slices over the tomato sauce.Drizzle the olive oil over the pizza and season with salt and freshly ground black pepper.Slide the pizza onto the preheated pizza stone or onto a baking sheetBake for 10-12 minutes or until the pizza crust is golden brown and crispy.Remove the pizza from the oven and let it cool for a minute or two."
+      },
+      {
+        "name": "Tiramisu",
+        "ingredients": [
+          "3 large eggs, separated",
+          "75g caster sugar",
+          "250g mascarpone cheese",
+          "100ml strong espresso coffee",
+          "50ml Amaretto liqueur",
+          "175g Savoiardi biscuits (ladyfingers)",
+          "Cocoa powder, for dusting"
+        ],
+        "cooking method": "In a large bowl, beat the egg yolks and sugar together with an electric mixer until light and creamy. In a medium saucepan, heat the milk over low heat until just simmering. Gradually pour the hot milk into the egg mixture, whisking constantly.Pour the mixture back into the saucepan and cook over low heat, stirring constantly, until the mixture thickens and coats the back of a spoon. Be careful not to let it boil or the eggs will scramble.Remove the saucepan from the heat and let it cool to room temperature.In a separate bowl, beat the heavy cream and vanilla extract together until stiff peaks form.In a large mixing bowl, beat the mascarpone cheese until smooth and creamy.Add the cooled custard mixture to the mascarpone cheese and mix until well combined.In a small bowl, mix together the espresso and rum.Dip each ladyfinger briefly into the espresso mixture, making sure not to soak them for too long or they will become too soggy."
+      }
+    ]
+  },
+
+  {
+    "id": "gt71s3",
+    "chefName": "Antonio Carluccio",
+    "chefPictureUrl": "https://i.ibb.co/k50mHDz/cheff2.jpg",
+    "Years of experience": "8 years",
+    "Numbers of recipes": 3,
+    "likes": 12014,
+    "Ratings": 5,
+    "recipes": [
+        {
+          "name": "Pesto alla Genovese",
+          "ingredients": [
+            "50g fresh basil leaves",
+            "1 garlic clove, peeled",
+            "50g pine nuts",
+            "50g Pecorino Romano cheese, grated",
+            "50g Parmesan cheese, grated",
+            "100ml extra virgin olive oil",
+            "Salt and freshly ground black pepper"
+          ],
+          "cooking method" : "Cook the pasta in a large pot of boiling salted water until al dente, following the package instructions.While the pasta cooks, heat the olive oil and butter in a large skillet over medium-low heat.Add the sliced onions and cook, stirring occasionally, until they are very soft and golden brown, about 40-50 minutes. Add a little bit of water if the onions begin to stick to the bottom of the skillet.Once the onions are caramelized, season them with salt and pepper to taste.Reserve about 1 cup of the pasta cooking water, then drain the pasta and return it to the pot.Add the caramelized onions and the Parmesan cheese to the pot with the pasta and toss everything together, adding some of the reserved pasta cooking water as needed to create a creamy sauce.Serve hot, topped with additional Parmesan cheese and black pepper if desired."
+        },
+        {
+          "name": "Risotto ai Funghi",
+          "ingredients": [
+            "300g Arborio rice",
+            "1 litre vegetable stock",
+            "50g unsalted butter",
+            "1 onion, finely chopped",
+            "2 garlic cloves, finely chopped",
+            "500g mixed mushrooms, sliced",
+            "100g Parmesan cheese, grated",
+            "A handful of fresh parsley, chopped",
+            "Salt and freshly ground black pepper"
+          ],
+          "cooking method" : "In a large saucepan, heat the chicken or vegetable broth over low heat and keep it warm.In a separate large saucepan or Dutch oven, heat the olive oil over medium heat.Add the onions and garlic to the saucepan and cook, stirring occasionally, until they are softened, about 5-7 minutes.Add the sliced mushrooms to the saucepan and continue cooking until the mushrooms are tender and lightly browned, about 8-10 minutes.Add the Arborio rice to the saucepan and stir to coat it in the oil and vegetable mixture.Pour in the white wine and let it simmer until the liquid has been absorbed by the rice, stirring occasionally.Begin adding the warm broth to the saucepan, about 1/2 cup at a time, stirring frequently and allowing each addition to be absorbed before adding more. Continue this process until the rice is tender but still has a slight bite, about 20-25 minutes.Remove the saucepan from the heat and stir in the grated Parmesan cheese and butter until they are fully melted and incorporated."
+        },
+        {
+          "name": "Torta di Mele",
+          "ingredients": [
+            "4 apples, peeled and sliced",
+            "150g caster sugar",
+            "3 eggs",
+            "150g plain flour",
+            "50g unsalted butter, melted",
+            "100ml whole milk",
+            "1 tsp baking powder",
+            "1 tsp vanilla extract",
+            "A pinch of salt",
+            "Icing sugar, for dusting"
+          ],
+          "cooking method" : "Preheat the oven to 350°F. Grease a 9-inch springform pan and set aside.In a large bowl, beat the butter and sugar together until light and fluffy, about 2-3 minutes.Add the eggs, one at a time, beating well after each addition.In a separate bowl, whisk together the all-purpose flour, almond flour, baking powder, and salt.Gradually add the dry ingredients to the wet ingredients, alternating with the milk, and beat until just combined.Pour the batter into the prepared springform pan and smooth the top with a spatula.Arrange the sliced apples on top of the batter, pressing them down slightly.Bake the cake for 40-50 minutes or until a toothpick inserted into the center of the cake comes out clean.Allow the cake to cool in the pan for 10-15 minutes before removing it from the pan and placing it on a wire rack to cool completely."
+        }
+      ]
+  },
+
+  {
+    "id": "fdg5y7",
+    "chefName": "Massimo Bottura",
+    "chefPictureUrl": "https://i.ibb.co/wQF9NDB/cheff3.jpg",
+    "Years of experience": "5 years",
+    "Numbers of recipes": 3,
+    "likes": 13852,
+    "Ratings": 4.9,
+    "recipes": [
+        {
+            "name": "Tortellini in Brodo",
+            "ingredients": [
+                "1 package (8-10 oz.) of fresh or frozen tortellini",
+                "8 cups of chicken or vegetable broth",
+                "2 cloves of garlic, minced",
+                "2 tbsp. of olive oil",
+                "1/2 cup of grated Parmesan cheese",
+                "Salt and pepper to taste",
+                "Fresh parsley, chopped (optional)"
+            ],
+            "cooking method" : "In a large pot, heat the olive oil over medium heat. Add the minced garlic and sauté for about 30 seconds until fragrant.Add the chicken or vegetable broth to the pot and bring it to a boil.Once the broth has come to a boil, reduce the heat to low and let it simmer.Cook the tortellini in a separate pot of boiling salted water according to package instructions, usually for about 3-4 minutes for fresh tortellini or 8-10 minutes for frozen tortellini.Once the tortellini is cooked, drain it and add it to the pot of simmering broth.Let the tortellini cook in the broth for 1-2 minutes, until heated through.Season the soup with salt and pepper to taste.Serve the Tortellini in Brodo hot, garnished with grated Parmesan cheese and chopped parsley if desired. "
+        },
+        {
+            "name": "Spaghetti Carbonara",
+            "ingredients": [
+              "400g spaghetti",
+              "150g pancetta, diced",
+              "3 large eggs",
+              "50g Pecorino Romano cheese, grated",
+              "50g Parmesan cheese, grated",
+              "1 garlic clove, finely chopped",
+              "Salt and freshly ground black pepper"
+            ],
+            "cooking method":
+                "Bring a large pot of salted water to a boil. Add the spaghetti and cook until al dente, according to package instructions. While the spaghetti is cooking, heat a large frying pan over medium heat. Add the diced pancetta and cook until crispy and golden brown, stirring occasionally, for about 5-7 minutes.Add the finely chopped garlic to the frying pan with the pancetta and cook for an additional 1-2 minutes until fragrant. Remove the pan from the heat.In a bowl, lightly beat the eggs and add the grated Pecorino Romano cheese and Parmesan cheese. Season with salt and freshly ground black pepper.Drain the spaghetti and reserve 1/2 cup of the pasta cooking water.Add the drained spaghetti to the frying pan with the pancetta and garlic. Toss well to combine. Pour the egg and cheese mixture over the spaghetti and toss well until the spaghetti is coated evenly.If the sauce is too thick, gradually add some of the reserved pasta cooking water until the desired consistency is achieved."
+          },
+          {
+            "name": "Tiramisu",
+            "ingredients": [
+              "3 large eggs, separated",
+              "75g caster sugar",
+              "250g mascarpone cheese",
+              "100ml strong espresso coffee",
+              "50ml Amaretto liqueur",
+              "175g Savoiardi biscuits (ladyfingers)",
+              "Cocoa powder, for dusting"
+            ],
+            "cooking method": "In a large bowl, beat the egg yolks and sugar together with an electric mixer until light and creamy. In a medium saucepan, heat the milk over low heat until just simmering. Gradually pour the hot milk into the egg mixture, whisking constantly.Pour the mixture back into the saucepan and cook over low heat, stirring constantly, until the mixture thickens and coats the back of a spoon. Be careful not to let it boil or the eggs will scramble.Remove the saucepan from the heat and let it cool to room temperature.In a separate bowl, beat the heavy cream and vanilla extract together until stiff peaks form.In a large mixing bowl, beat the mascarpone cheese until smooth and creamy.Add the cooled custard mixture to the mascarpone cheese and mix until well combined.In a small bowl, mix together the espresso and rum.Dip each ladyfinger briefly into the espresso mixture, making sure not to soak them for too long or they will become too soggy."
+          }
+    ]
+  },
+
+  {
+    "id": "89hfn4",
+    "chefName": "Giada De Laurentiis",
+    "chefPictureUrl": "https://i.ibb.co/FB6MpcH/cheff4.jpg",
+    "Years of experience": "11 years",
+    "Numbers of recipes": 3,
+    "likes": 20079,
+    "Ratings": 4.8,
+    "recipes": [
+        {
+            "name": "Tortellini in Brodo",
+            "ingredients": [
+                "2 cups of heavy cream",
+                "1/2 cup of whole milk",
+                "1/2 cup of granulated sugar",
+                "1 tsp. of vanilla extract",
+                "2 1/2 tsp. of powdered gelatin",
+                "Fresh berries or fruit, for topping (optional)"
+            ],
+            "cooking method": "In a medium-sized saucepan, combine the heavy cream, whole milk, and granulated sugar.Heat the mixture over medium heat, stirring occasionally, until the sugar has completely dissolved.Add the vanilla extract to the saucepan and stir to combine.In a small bowl, sprinkle the powdered gelatin over 3 tablespoons of cold water and let it sit for 5 minutes until it has softened.Once the gelatin has softened, add it to the saucepan with the cream mixture and stir to combine.Heat the mixture over low heat, stirring constantly, until the gelatin has completely dissolved and the mixture is smooth.Remove the saucepan from the heat and let it cool for 5-10 minutes.Pour the mixture into 4-6 ramekins or glasses and refrigerate for at least 4 hours or until set.Once the Panna Cotta has set, run a knife around the edge of each ramekin or glass to loosen the Panna Cotta."
+        },
+        {
+            "name": "Gnocchi alla Sorrentina",
+            "ingredients": [
+                "1 lb. of potato gnocchi",
+                "2 cups of tomato sauce",
+                "1 cup of diced fresh mozzarella cheese",
+                "1/2 cup of grated Parmesan cheese",
+                "2 tbsp. of olive oil",
+                "1 garlic clove, minced",
+                "Salt and pepper to taste",
+                "Fresh basil leaves, chopped (optional)"
+            ],
+            "cooking method": "Preheat your oven to 375°F.Cook the potato gnocchi in a large pot of boiling salted water for about 2-3 minutes, or until they float to the top.Drain the gnocchi and set them aside.In a large skillet, heat the olive oil over medium heat.Add the minced garlic to the skillet and sauté for about 30 seconds until fragrant.Add the tomato sauce to the skillet and season with salt and pepper to taste.Let the tomato sauce simmer for about 5-10 minutes.In a large baking dish, spread a thin layer of the tomato sauce on the bottom.Add the cooked gnocchi to the baking dish and toss them in the tomato sauce to coat.Top the gnocchi with the remaining tomato sauce."
+        },
+        {
+            "name": "Bruschetta",
+            "ingredients": [
+                "1 large French baguette, sliced into 1/2-inch thick slices",
+                "3-4 ripe tomatoes, diced",
+                "3 cloves of garlic, minced",
+               " 1/4 cup of fresh basil leaves, chopped",
+                "1/4 cup of extra-virgin olive oil",
+                "Salt and pepper to taste"
+            ],
+            "cooking method": "Preheat your oven to 375°F.Place the sliced baguette on a baking sheet and brush both sides with extra-virgin olive oil.Bake the baguette slices in the preheated oven for 8-10 minutes, or until lightly toasted and crisp.In a medium-sized bowl, combine the diced tomatoes, minced garlic, chopped basil leaves, and extra-virgin olive oil.Season the tomato mixture with salt and pepper to taste.Once the baguette slices are toasted, remove them from the oven and let them cool for a few minutes.Top each baguette slice with a spoonful of the tomato mixture.Serve the Bruschetta immediately and enjoy!"
+        }
+        
+    ]
+  },
+
+  {
+    "id": "vnbd48",
+    "chefName": "Lidia Bastianich",
+    "chefPictureUrl": "https://i.ibb.co/h74HNd7/cheff5.jpg",
+    "Years of experience": "7 years",
+    "Numbers of recipes": 3,
+    "likes": 28527,
+    "Ratings": 5,
+    "recipes": [
+        {
+            "name": "Saltimbocca alla Romana",
+            "ingredients": [
+                "4 veal cutlets, pounded thin",
+                "4-8 thin slices of prosciutto",
+                "4-8 fresh sage leaves",
+                "1/2 cup of all-purpose flour",
+                "1/4 cup of dry white wine",
+                "1/4 cup of chicken broth",
+                "2 tbsp. of unsalted butter",
+                "2 tbsp. of olive oil",
+                "Salt and pepper to taste"
+            ],
+            "cooking method": "Season the veal cutlets with salt and pepper on both sides.Place a slice of prosciutto on top of each veal cutlet, and then place a fresh sage leaf on top of the prosciutto. Secure the sage leaf and prosciutto to the veal with a toothpick.Dredge the veal cutlets in the flour, shaking off any excess.In a large skillet, heat the olive oil and butter over medium heat.Add the veal cutlets to the skillet and cook them for about 2-3 minutes on each side, or until golden brown and cooked through.Remove the veal cutlets from the skillet and place them on a plate. Cover the plate with foil to keep the veal warm.In the same skillet, add the white wine and chicken broth. Bring the liquid to a simmer and scrape the browned bits off the bottom of the skillet with a wooden spoon.Let the liquid reduce by half, stirring occasionally.Remove the toothpicks from the veal cutlets and place them on a serving platter.Pour the reduced sauce over the veal cutlets."
+        },
+        {
+            "name": "Caprese Salad",
+            "ingredients": [
+                "2-3 ripe tomatoes, sliced",
+                "8 oz. fresh mozzarella cheese, sliced",
+                "1/4 cup of fresh basil leaves",
+                "1/4 cup of extra-virgin olive oil",
+                "2 tbsp. of balsamic vinegar",
+                "Salt and pepper to taste"
+            ],
+            "cooking method": "Arrange the sliced tomatoes and mozzarella cheese on a large platter, alternating them.Sprinkle salt and pepper over the tomato and mozzarella slices.Tear the fresh basil leaves and scatter them over the tomato and mozzarella slices.In a small bowl, whisk together the extra-virgin olive oil and balsamic vinegar.Drizzle the dressing over the Caprese Salad.Serve the Caprese Salad immediately and enjoy!"
+        },
+        {
+            "name": "Bruschetta",
+            "ingredients": [
+                "4 veal shanks, about 1-1/2 inches thick",
+                "1/2 cup of all-purpose flour",
+                "2 tbsp. of olive oil",
+                "2 tbsp. of unsalted butter",
+                "1 onion, finely chopped",
+                "2 celery stalks, finely chopped",
+                "2 carrots, finely chopped",
+                "3 garlic cloves, minced",
+                "1 can of crushed tomatoes (28 oz.)",
+                "1 cup of chicken broth"
+            ],
+            "cooking method": "Preheat the oven to 350°F.Season the veal shanks with salt and pepper on both sides.Dredge the veal shanks in the flour, shaking off any excess.In a large Dutch oven or oven-safe pot, heat the olive oil and butter over medium heat.Add the veal shanks to the pot and cook them for about 4-5 minutes on each side, or until browned.Remove the veal shanks from the pot and place them on a plate. Cover the plate with foil to keep the veal warm.In the same pot, add the onion, celery, carrots, and garlic. Cook the vegetables for about 5-6 minutes, or until softened.Add the crushed tomatoes, chicken broth, dry white wine, tomato paste, and bay leaf to the pot. Stir to combine.Return the veal shanks to the pot, submerging them in the tomato sauce."
+        }
+        
+    ]
+  },
+
+  {
+    "id": "254h1ty4",
+    "chefName": "Mario Batali",
+    "chefPictureUrl": "https://i.ibb.co/YPzYmPV/cheff6.jpg",
+    "Years of experience": "9 years",
+    "Numbers of recipes": 3,
+    "likes": 11425,
+    "Ratings": 4.7,
+    "recipes": [
+        {
+            "name": "Risotto ai Funghi ",
+            "ingredients": [
+                "1-1/2 cups of Arborio rice",
+                "4 cups of chicken broth",
+                "1/2 cup of dry white wine",
+                "1/2 cup of grated Parmesan cheese",
+                "2 tbsp. of unsalted butter",
+                "2 tbsp. of olive oil",
+                "1 onion, finely chopped",
+                "3 garlic cloves, minced",
+                "8 oz. of fresh mushrooms, sliced",
+                "Salt and pepper to taste"
+            ],
+            "cooking method": "In a large saucepan, heat the chicken broth over medium heat.In a separate pot, heat the olive oil and butter over medium heat.Add the onion and garlic to the pot and cook for about 2-3 minutes, or until softened.Add the sliced mushrooms to the pot and cook for about 5-6 minutes, or until the mushrooms are tender and browned.Remove the mushrooms from the pot and set them aside on a plate.In the same pot, add the Arborio rice and stir it to coat with the oil and butter. Cook the rice for about 2-3 minutes, or until it becomes translucent.Add the dry white wine to the pot and stir until the wine is absorbed by the rice.Ladle the hot chicken broth into the pot, one cup at a time, stirring constantly until each cup is absorbed by the rice. Repeat this process until the rice is cooked al dente, which should take about 20-25 minutes.Add the cooked mushrooms and grated Parmesan cheese to the pot, stirring to combine."
+        },
+        {
+            "name": "Gnocchi alla Sorrentina",
+            "ingredients": [
+                "1 lb. of potato gnocchi",
+                "2 cups of tomato sauce",
+                "1 cup of diced fresh mozzarella cheese",
+                "1/2 cup of grated Parmesan cheese",
+                "2 tbsp. of olive oil",
+                "1 garlic clove, minced",
+                "Salt and pepper to taste",
+                "Fresh basil leaves, chopped (optional)"
+            ],
+            "cooking method": "Preheat your oven to 375°F.Cook the potato gnocchi in a large pot of boiling salted water for about 2-3 minutes, or until they float to the top.Drain the gnocchi and set them aside.In a large skillet, heat the olive oil over medium heat.Add the minced garlic to the skillet and sauté for about 30 seconds until fragrant.Add the tomato sauce to the skillet and season with salt and pepper to taste.Let the tomato sauce simmer for about 5-10 minutes.In a large baking dish, spread a thin layer of the tomato sauce on the bottom.Add the cooked gnocchi to the baking dish and toss them in the tomato sauce to coat.Top the gnocchi with the remaining tomato sauce."
+        },
+        {
+            "name": "Saltimbocca alla Romana",
+            "ingredients": [
+                "4 veal cutlets, pounded thin",
+                "4-8 thin slices of prosciutto",
+                "4-8 fresh sage leaves",
+                "1/2 cup of all-purpose flour",
+                "1/4 cup of dry white wine",
+                "1/4 cup of chicken broth",
+                "2 tbsp. of unsalted butter",
+                "2 tbsp. of olive oil",
+                "Salt and pepper to taste"
+            ],
+            "cooking method": "Season the veal cutlets with salt and pepper on both sides.Place a slice of prosciutto on top of each veal cutlet, and then place a fresh sage leaf on top of the prosciutto. Secure the sage leaf and prosciutto to the veal with a toothpick.Dredge the veal cutlets in the flour, shaking off any excess.In a large skillet, heat the olive oil and butter over medium heat.Add the veal cutlets to the skillet and cook them for about 2-3 minutes on each side, or until golden brown and cooked through.Remove the veal cutlets from the skillet and place them on a plate. Cover the plate with foil to keep the veal warm.In the same skillet, add the white wine and chicken broth. Bring the liquid to a simmer and scrape the browned bits off the bottom of the skillet with a wooden spoon.Let the liquid reduce by half, stirring occasionally.Remove the toothpicks from the veal cutlets and place them on a serving platter.Pour the reduced sauce over the veal cutlets."
+        } 
+    ]
+  }
+
+]
+
