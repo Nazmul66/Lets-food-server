@@ -15,6 +15,12 @@ app.get("/cheff", (req, res) => {
     res.send(cheff)
 })
 
+app.get("/cheff/:id", (req, res) =>{
+    const id = req.params.id;
+    const cheffId = cheff.find(n => n.id === id);
+    res.send(cheffId);
+})
+
 app.get('/', (req, res) => {
     res.send('Hello World!')
 })
