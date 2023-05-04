@@ -8,9 +8,11 @@
     "Numbers_of_recipes": 3,
     "likes": 17059,
     "Ratings": 5,
+    "description": "Gino D'Acampo is an Italian celebrity chef, television personality, and author. He was born on July 17, 1976, in Torre del Greco, near Naples, Italy.Gino's culinary career began at the age of 19 when he moved to London and started working in the kitchens of several restaurants. He later opened his own restaurant, 'Bontà Italia,' which was a success.Gino became well-known in the UK for his appearances on the television show 'Ready Steady Cook,' and has since appeared on numerous other cooking shows including 'This Morning,' 'Saturday Kitch'and 'Celebrity Juice.' He has also written several best-selling cookbooks, including 'Gino's Pasta,' 'Gino's Italian Escape,' and 'Gino's Hidden Italy.'In addition to his culinary work, Gino has also appeared as a contestant on the reality TV show 'I'm a Celebrity...Get Me Out of Here!' and has hosted his own travel shows, exploring the food and culture of Italy.Gino is known for his charismatic personality, passion for Italian cuisine, and commitment to using fresh, seasonal ingredients in his cooking. He currently resides in Hertfordshire, England, with his wife and three children.",
     "recipes": [
       {
         "name": "Spaghetti Carbonara",
+        "img": "https://i.ibb.co/zRDpGMf/Spaghetti-Carbonara-jpeg.jpg",
         "ingredients": [
           "400g spaghetti",
           "150g pancetta, diced",
@@ -25,6 +27,7 @@
       },
       {
         "name": "Pizza Margherita",
+        "img": "https://i.ibb.co/Vwkjv9x/Pizza-Margherita.jpg",
         "ingredients": [
           "500g strong bread flour",
           "1 tsp instant yeast",
@@ -42,6 +45,7 @@
       },
       {
         "name": "Tiramisu",
+        "img": "https://i.ibb.co/x5xjJm1/Tiramisu.jpg",
         "ingredients": [
           "3 large eggs, separated",
           "75g caster sugar",
@@ -64,9 +68,11 @@
     "Numbers_of_recipes": 3,
     "likes": 12014,
     "Ratings": 5,
+    "description": "Antonio Carluccio was an Italian chef, restaurateur, and television personality who was born on April 19, 1937, in Vietri sul Mare, Italy. He was known as 'the godfather of Italian gastronomy' and was a prominent figure in the UK's culinary scene for several decades.Carluccio's career began in the 1960s when he moved to London and began working as a wine merchant. He later transitioned to the food industry and worked as a chef at several prestigious restaurants in London, including Neal Street Restaurant, where he met his future business partner, Priscilla Conran.In 1981, Carluccio and Conran opened their first restaurant together, 'Neal Street Restaurant,' which was a huge success. They later founded the 'Carluccio's' chain of Italian restaurants, which became a staple of the UK's high street.Carluccio was also a prolific author and wrote over 20 cookbooks, many of which focused on traditional Italian cuisine. He was a regular on television shows such as 'Antonio Carluccio's Italian Feast' and 'Two Greedy Italians' alongside Gennaro Contaldo.Throughout his career, Carluccio was a passionate advocate for simple, fresh, and authentic Italian cuisine. He was awarded an OBE in 2007 for his services to the catering industry and was also appointed as the Commendatore dell'Ordine della Stella d'Italia (Commander of the Order of the Star of Italy) by the Italian government in recognition of his contributions to the promotion of Italian cuisine.Sadly, Carluccio passed away on November 8, 2017, at the age of 80, leaving behind a legacy as one of the most influential figures in the UK's culinary scene.",
     "recipes": [
         {
           "name": "Pesto alla Genovese",
+          "img": "https://i.ibb.co/CJHksBx/Pesto-alla-Genovese.jpg",
           "ingredients": [
             "50g fresh basil leaves",
             "1 garlic clove, peeled",
@@ -80,6 +86,7 @@
         },
         {
           "name": "Risotto ai Funghi",
+          "img": "https://i.ibb.co/HB1mM5D/Risotto-ai-Funghi.jpg",
           "ingredients": [
             "300g Arborio rice",
             "1 litre vegetable stock",
@@ -95,6 +102,7 @@
         },
         {
           "name": "Torta di Mele",
+          "img": "https://i.ibb.co/3kbkpCh/Torta-di-Mele.jpg",
           "ingredients": [
             "4 apples, peeled and sliced",
             "150g caster sugar",
@@ -120,9 +128,11 @@
     "Numbers_of_recipes": 3,
     "likes": 13852,
     "Ratings": 4.9,
+    "description": "Massimo Bottura is an Italian chef and restaurateur who is widely regarded as one of the most influential chefs in the world. He was born on September 30, 1962, in Modena, Italy.Bottura's culinary career began in the 1980s when he worked at several Michelin-starred restaurants in France. In 1995, he and his wife, Lara Gilmore, opened their own restaurant, 'Osteria Francescana,' in Modena. The restaurant quickly gained critical acclaim for its innovative and contemporary take on traditional Italian cuisine.Over the years, Bottura has become known for his commitment to using locally sourced and seasonal ingredients in his cooking, as well as his dedication to reducing food waste. He is also an advocate for social and environmental issues and has used his platform to promote sustainability and support charitable causes.Bottura has received numerous awards and accolades for his work, including three Michelin stars for Osteria Francescana, which has consistently been ranked among the best restaurants in the world. In 2016, he launched 'Food for Soul,' a non-profit organization that aims to fight food waste and social isolation by transforming surplus ingredients into nutritious meals for those in need.Bottura is also the author of several cookbooks, including 'Never Trust a Skinny Italian Chef' and 'Bread is Gold,' which features recipes from some of the world's top chefs using ingredients that would otherwise be thrown away.In addition to his culinary work, Bottura is a frequent speaker at conferences and events around the world, where he shares his vision for the future of food and inspires others to make a positive impact on the world.",
     "recipes": [
         {
             "name": "Tortellini in Brodo",
+            "img": "https://i.ibb.co/wR5CNNd/Tortellini-in-Brodo.jpg",
             "ingredients": [
                 "1 package (8-10 oz.) of fresh or frozen tortellini",
                 "8 cups of chicken or vegetable broth",
@@ -136,6 +146,7 @@
         },
         {
             "name": "Spaghetti Carbonara",
+            "img": "https://i.ibb.co/zRDpGMf/Spaghetti-Carbonara-jpeg.jpg",
             "ingredients": [
               "400g spaghetti",
               "150g pancetta, diced",
@@ -147,20 +158,21 @@
             ],
             "cooking_method":
                 "Bring a large pot of salted water to a boil. Add the spaghetti and cook until al dente, according to package instructions. While the spaghetti is cooking, heat a large frying pan over medium heat. Add the diced pancetta and cook until crispy and golden brown, stirring occasionally, for about 5-7 minutes.Add the finely chopped garlic to the frying pan with the pancetta and cook for an additional 1-2 minutes until fragrant. Remove the pan from the heat.In a bowl, lightly beat the eggs and add the grated Pecorino Romano cheese and Parmesan cheese. Season with salt and freshly ground black pepper.Drain the spaghetti and reserve 1/2 cup of the pasta cooking water.Add the drained spaghetti to the frying pan with the pancetta and garlic. Toss well to combine. Pour the egg and cheese mixture over the spaghetti and toss well until the spaghetti is coated evenly.If the sauce is too thick, gradually add some of the reserved pasta cooking water until the desired consistency is achieved."
-          },
-          {
-            "name": "Tiramisu",
-            "ingredients": [
-              "3 large eggs, separated",
-              "75g caster sugar",
-              "250g mascarpone cheese",
-              "100ml strong espresso coffee",
-              "50ml Amaretto liqueur",
-              "175g Savoiardi biscuits (ladyfingers)",
-              "Cocoa powder, for dusting"
-            ],
-            "cooking_method": "In a large bowl, beat the egg yolks and sugar together with an electric mixer until light and creamy. In a medium saucepan, heat the milk over low heat until just simmering. Gradually pour the hot milk into the egg mixture, whisking constantly.Pour the mixture back into the saucepan and cook over low heat, stirring constantly, until the mixture thickens and coats the back of a spoon. Be careful not to let it boil or the eggs will scramble.Remove the saucepan from the heat and let it cool to room temperature.In a separate bowl, beat the heavy cream and vanilla extract together until stiff peaks form.In a large mixing bowl, beat the mascarpone cheese until smooth and creamy.Add the cooled custard mixture to the mascarpone cheese and mix until well combined.In a small bowl, mix together the espresso and rum.Dip each ladyfinger briefly into the espresso mixture, making sure not to soak them for too long or they will become too soggy."
-          }
+        },
+        {
+          "name": "Tiramisu",
+          "img": "https://i.ibb.co/x5xjJm1/Tiramisu.jpg",
+          "ingredients": [
+            "3 large eggs, separated",
+            "75g caster sugar",
+            "250g mascarpone cheese",
+            "100ml strong espresso coffee",
+            "50ml Amaretto liqueur",
+            "175g Savoiardi biscuits (ladyfingers)",
+            "Cocoa powder, for dusting"
+          ],
+          "cooking_method": "In a large bowl, beat the egg yolks and sugar together with an electric mixer until light and creamy. In a medium saucepan, heat the milk over low heat until just simmering. Gradually pour the hot milk into the egg mixture, whisking constantly.Pour the mixture back into the saucepan and cook over low heat, stirring constantly, until the mixture thickens and coats the back of a spoon. Be careful not to let it boil or the eggs will scramble.Remove the saucepan from the heat and let it cool to room temperature.In a separate bowl, beat the heavy cream and vanilla extract together until stiff peaks form.In a large mixing bowl, beat the mascarpone cheese until smooth and creamy.Add the cooled custard mixture to the mascarpone cheese and mix until well combined.In a small bowl, mix together the espresso and rum.Dip each ladyfinger briefly into the espresso mixture, making sure not to soak them for too long or they will become too soggy."
+        }
     ]
   },
 
@@ -172,9 +184,11 @@
     "Numbers_of_recipes": 3,
     "likes": 20079,
     "Ratings": 4.8,
+    "description": "Giada De Laurentiis is an Italian-American chef, author, and television personality who was born on August 22, 1970, in Rome, Italy. She is known for her Italian-American cuisine and her appearances on Food Network shows.De Laurentiis' culinary career began when she worked at her family's restaurant in California. She later attended Le Cordon Bleu culinary school in Paris and worked in several restaurants in Los Angeles before launching her own catering company.In 2002, De Laurentiis began hosting her first show on Food Network, 'Everyday Italian,' which focused on simple and traditional Italian cuisine. She has since hosted several other cooking shows, including 'Giada at Home,' 'Giada's Weekend Getaways,' and 'Giada in Italy.'In addition to her television work, De Laurentiis has authored several cookbooks, including 'Everyday Italian,' 'Giada's Family Dinners,' and 'Giada's Italy,' which feature recipes inspired by her Italian heritage.De Laurentiis has been recognized for her contributions to the culinary world, including a Daytime Emmy Award for 'Outstanding Lifestyle Host' and induction into the Culinary Hall of Fame. She is also involved in charitable organizations, including the Children's Cancer Association and Stand Up to Cancer",
     "recipes": [
         {
             "name": "Tortellini in Brodo",
+            "img": "https://i.ibb.co/wR5CNNd/Tortellini-in-Brodo.jpg",
             "ingredients": [
                 "2 cups of heavy cream",
                 "1/2 cup of whole milk",
@@ -187,6 +201,7 @@
         },
         {
             "name": "Gnocchi alla Sorrentina",
+            "img": "https://i.ibb.co/9WnZWcm/Gnocchi-alla-Sorrentina.jpg",
             "ingredients": [
                 "1 lb. of potato gnocchi",
                 "2 cups of tomato sauce",
@@ -201,6 +216,7 @@
         },
         {
             "name": "Bruschetta",
+            "img": "https://i.ibb.co/b5pXhcb/Bruschetta.jpg",
             "ingredients": [
                 "1 large French baguette, sliced into 1/2-inch thick slices",
                 "3-4 ripe tomatoes, diced",
@@ -223,9 +239,11 @@
     "Numbers_of_recipes": 3,
     "likes": 28527,
     "Ratings": 5,
+    "description": "Lidia Bastianich is an Italian-American chef, author, and television personality who was born on February 21, 1947, in Pula, Istria (present-day Croatia). She is known for her expertise in Italian cuisine and her appearances on cooking shows.Bastianich's culinary career began when she and her family fled their home in Istria during World War II and settled in a refugee camp in Italy. She later moved to the United States with her family and began working in the food industry, eventually opening her first restaurant, 'Felidia,' in New York City in 1981.Over the years, Bastianich has become known for her dedication to preserving and promoting traditional Italian cuisine. She has authored several cookbooks, including 'Lidia's Family Table,' 'Lidia's Italian-American Kitchen,' and 'Lidia's Commonsense Italian Cooking,' which feature recipes inspired by her childhood in Istria and her experiences living in Italy and the United States. Bastianich has also hosted several cooking shows, including 'Lidia's Italy' and 'Lidia's Kitchen,' and has appeared as a judge on 'MasterChef' and 'MasterChef Junior.' In addition to her culinary work, Bastianich is involved in several charitable organizations, including the James Beard Foundation and the Mario Batali Foundation, which focuses on",
     "recipes": [
         {
             "name": "Saltimbocca alla Romana",
+            "img": "https://i.ibb.co/12N2rMF/Saltimbocca-alla-Romana.jpg",
             "ingredients": [
                 "4 veal cutlets, pounded thin",
                 "4-8 thin slices of prosciutto",
@@ -241,6 +259,7 @@
         },
         {
             "name": "Caprese Salad",
+            "img": "https://i.ibb.co/N26BTJ2/Caprese-Salad.jpg",
             "ingredients": [
                 "2-3 ripe tomatoes, sliced",
                 "8 oz. fresh mozzarella cheese, sliced",
@@ -253,6 +272,7 @@
         },
         {
             "name": "Bruschetta",
+            "img": "https://i.ibb.co/b5pXhcb/Bruschetta.jpg",
             "ingredients": [
                 "4 veal shanks, about 1-1/2 inches thick",
                 "1/2 cup of all-purpose flour",
@@ -279,9 +299,11 @@
     "Numbers_of_recipes": 3,
     "likes": 11425,
     "Ratings": 4.7,
+    "description": "Mario Batali is an American chef, restaurateur, author, and media personality who was born on September 19, 1960, in Seattle, Washington. He is known for his expertise in Italian cuisine and his appearances on cooking shows.Batali's culinary career began when he attended Le Cordon Bleu in London, England. He later worked in several restaurants in California before opening his own restaurant, 'Pó,' in New York City in 1993.Over the years, Batali has become known for his dedication to promoting authentic Italian cuisine and his use of local and seasonal ingredients in his cooking. He has authored several cookbooks, including 'Molto Italiano,' 'Mario Batali Holiday Food,' and 'Mario Batali - Big American Cookbook,' which feature recipes inspired by his travels throughout Italy and the United States. Batali has also hosted several cooking shows, including 'Molto Mario' and 'Iron Chef America,' and has appeared as a judge on 'Top Chef' and 'MasterChef.' In addition to his culinary work, Batali is involved in several charitable organizations, including the Mario Batali Foundation, which focuses on pediatric disease research and education. He is also a passionate advocate for sustainable agriculture and has worked to promote the use of locally sourced and organic ingredients in the restaurant industry.",
     "recipes": [
         {
             "name": "Risotto ai Funghi ",
+            "img": "https://i.ibb.co/HB1mM5D/Risotto-ai-Funghi.jpg",
             "ingredients": [
                 "1-1/2 cups of Arborio rice",
                 "4 cups of chicken broth",
@@ -298,6 +320,7 @@
         },
         {
             "name": "Gnocchi alla Sorrentina",
+            "img": "https://i.ibb.co/9WnZWcm/Gnocchi-alla-Sorrentina.jpg",
             "ingredients": [
                 "1 lb. of potato gnocchi",
                 "2 cups of tomato sauce",
@@ -312,6 +335,7 @@
         },
         {
             "name": "Saltimbocca alla Romana",
+            "img": "https://i.ibb.co/12N2rMF/Saltimbocca-alla-Romana.jpg",
             "ingredients": [
                 "4 veal cutlets, pounded thin",
                 "4-8 thin slices of prosciutto",
