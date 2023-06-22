@@ -1,7 +1,7 @@
 const express = require("express");
 const app = express();
 const cors = require("cors");
-const service = require("./data//service.json")
+const service = require("./data/service.json")
 const cheff = require("./data/cheff.json")
 const port = process.env.PORT || 4000;
 
